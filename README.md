@@ -32,6 +32,7 @@ A console-based Snake Game developed in C++ using Object-Oriented Programming pr
 ## Controls
 
 | Key | Action     |
+|---  |------------|
 | W   | Move Up    |
 | A   | Move Left  |
 | S   | Move Down  |
