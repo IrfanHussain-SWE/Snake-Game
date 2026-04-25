@@ -1,7 +1,7 @@
-# Snake-Game-in-C-
+# Snake-Game
 A console-based Snake Game developed in C++ using Object-Oriented Programming principles and the Windows Console API. The project demonstrates real-time input handling, game logic, and console rendering.
 
----
+
 ## Student Info
 * Name: Irfan Hussain
 * University: COMSATS University Islamabad, Wah Campus
@@ -15,7 +15,7 @@ A console-based Snake Game developed in C++ using Object-Oriented Programming pr
 * Score tracking system
 * Smooth game loop with controlled speed
 
----
+
 
 ## Concepts Used
 
@@ -27,25 +27,24 @@ A console-based Snake Game developed in C++ using Object-Oriented Programming pr
 * Collision Detection Logic
 * Windows Console Handling (`windows.h`, `conio.h`)
 
----
+
 
 ## Controls
 
 | Key | Action     |
-| --- | ---------- |
 | W   | Move Up    |
 | A   | Move Left  |
 | S   | Move Down  |
 | D   | Move Right |
 
----
+
 
 ## Requirements
 
 * Windows Operating System
 * C++ Compiler (MinGW or MSVC)
 
----
+
 
 ## Project Highlights
 
@@ -53,7 +52,7 @@ A console-based Snake Game developed in C++ using Object-Oriented Programming pr
 * Implements game logic and rendering from scratch
 * Demonstrates practical use of Windows API for console control
 
----
+
 
 ## Limitations
 
@@ -61,7 +60,6 @@ A console-based Snake Game developed in C++ using Object-Oriented Programming pr
 * Food may spawn on the snake body
 * No graphical user interface (console-based)
 
----
 
 ## Future Improvements
 
@@ -71,7 +69,7 @@ A console-based Snake Game developed in C++ using Object-Oriented Programming pr
 * Save high score using file handling
 * Convert to graphical interface (SFML or JavaFX)
 
----
+
 
 
 
