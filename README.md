@@ -2,7 +2,10 @@
 A console-based Snake Game developed in C++ using Object-Oriented Programming principles and the Windows Console API. The project demonstrates real-time input handling, game logic, and console rendering.
 
 ---
-
+## Student Info
+* Name: Irfan Hussain
+* University: COMSATS University Islamabad, Wah Campus
+* Program: BS Software Engineering
 ## Features
 
 * Real-time movement using keyboard input (W, A, S, D)
@@ -67,13 +70,6 @@ A console-based Snake Game developed in C++ using Object-Oriented Programming pr
 * Add levels and increasing difficulty
 * Save high score using file handling
 * Convert to graphical interface (SFML or JavaFX)
-
----
-
-## Author
-
-Irfan Hussain
-Aspiring Software Engineer
 
 ---
 
